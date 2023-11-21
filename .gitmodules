@@ -1,0 +1,3 @@
+[submodule "PhotoHelperFrontend"]
+	path = PhotoHelperFrontend
+	url = https://github.com/Dobrynya69/PhotoHelperFrontend.git
