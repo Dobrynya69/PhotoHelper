@@ -1,9 +1,8 @@
-[submodule "PhotoHelperFrontend"]
-	path = PhotoHelperFrontend
-	url = https://github.com/Dobrynya69/PhotoHelperFrontend.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Dobrynya69/PhotoHelperFrontend.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Dobrynya69/PhotoHelperBackend.git
+	branch = main
